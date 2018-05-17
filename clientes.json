@@ -1,4 +1,11 @@
 {
-"nome": "victor caetano",
-"saldo": 12897
+"nome": "victor",
+"agencia": "4457",
+"conta": "78998-9",
+"saldo": 12897,
+"limite": 1200,
+"cartoes": [
+  { "nome": "universitário de pobre" },
+  { "nome": "mega 2.0 super platinum" }
+]
 }
